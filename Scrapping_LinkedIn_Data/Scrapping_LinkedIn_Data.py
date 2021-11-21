@@ -13,5 +13,3 @@ def get_profile(profile_id):
                             headers=header_dic)
     
     return response.json()
-    
-
